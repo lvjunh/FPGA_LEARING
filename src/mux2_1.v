@@ -3,7 +3,7 @@ Author    				: 	Junhan Lv
 Email Address         	:    1322069095@qq.com
 Filename             	:    code.v
 Data                 	:    2023-11-4
-Description           	:    WaterLED for 8bit.
+Description           	:     二选一数据选择器.
 Modification History    	:
 Data            Author       Version         Change Description
 =======================================================

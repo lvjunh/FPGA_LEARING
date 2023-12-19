@@ -39,9 +39,9 @@ Input_Voltage=5V;
 Output_Voltage1=3.3V; 
 Output_Voltage2=1.2V;
 
-![DCDC并行电源模块设计方案](DCDC并行电源模块设计方案.png)
-![PLL配置电路](PLL配置电路.png)
-![TPS75003原理图](TPS75003原理图.png)
+![DCDC并行电源模块设计方案](../DCDC并行电源模块设计方案.png)
+![PLL配置电路](../PLL配置电路.png)
+![TPS75003原理图](../TPS75003原理图.png)
 
 
 

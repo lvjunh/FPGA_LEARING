@@ -35,7 +35,6 @@ always @(posedge clk or negedge rst_n) begin
 
    else begin
       cnt<=cnt+1'b1;
-      dataout <= dataout;
    end
     
 end

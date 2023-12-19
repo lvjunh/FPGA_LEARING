@@ -3,11 +3,7 @@ Author    				: 	Junhan Lv
 Email Address         	:    1322069095@qq.com
 Filename             	:    code.v
 Data                 	:    2023-11-4
-<<<<<<< HEAD
 Description           	:    二选一数据选择器.
-=======
-Description           	:     二选一数据选择器.
->>>>>>> 8e047947b324ce0868e85b528671e5830d038d0a
 Modification History    	:
 Data            Author       Version         Change Description
 =======================================================
